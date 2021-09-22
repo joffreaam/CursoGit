@@ -1,5 +1,5 @@
 body{
-    color: #333;
+    color: blue;
     text-align: center;
     font-family: Arial;
     margin: 0;
@@ -8,7 +8,7 @@ body{
 }
 
 #cabecera {
-  background: blue;
+  background: #33a;
   color: white;
   margin: 0;
   padding: 0.5em;
